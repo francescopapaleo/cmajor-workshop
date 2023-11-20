@@ -12,3 +12,4 @@ This repository is mainly for the Cmajor programming language workshop held at t
 
 - [Cmajor website](https://cmajor.dev)
 - [Cmajor on GitHub](https://github.com/SoundStacks/cmajor)
+- [Dynamic-Cast Cmajor workshop repository](https://github.com/dynamic-cast/ADC23/tree/main) 
